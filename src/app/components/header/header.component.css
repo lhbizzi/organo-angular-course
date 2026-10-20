@@ -1,0 +1,13 @@
+:host {
+  display: block;
+}
+
+.banner {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.banner img {
+  width: 100%;
+  display: block;
+}
